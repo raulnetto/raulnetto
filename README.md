@@ -28,13 +28,17 @@ A public technical showcase will be published separately as the project matures.
 
 ## Working with
 
-**Backend:** Python · FastAPI · REST APIs · SQLite
+**Languages:** Python · TypeScript · SQL
+
+**Backend:** FastAPI · REST APIs · SQLite
+
+**Media / AI:** FFmpeg · faster-whisper · local inference · OCR
 
 **Automation:** Python scripting · n8n · GitHub Actions
 
-**Applied AI / Media:** local inference · faster-whisper · FFmpeg · OCR
+**Frontend:** React · Vite
 
-**Frontend / tooling:** TypeScript · React · Git · GitHub
+**Development tooling:** Git · GitHub
 
 ---
 
