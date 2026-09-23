@@ -1,6 +1,6 @@
 # Hi, I'm Raul 👋
 
-**Software Developer and Systems Analysis & Development student at Fatec, focused on Python, Automation, Local AI & Media Tooling.**
+**Software Developer focused on Python, Automation, Local AI & Media Tooling.**
 
 I build software for automation, backend systems, media processing and AI-assisted workflows — combining academic foundations with hands-on engineering projects.
 
