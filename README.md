@@ -1,10 +1,10 @@
 # Hi, I'm Raul 👋
 
-**Software Developer focused on Python, Automation & Applied AI**
+**Software Developer and Systems Analysis & Development student at Fatec, focused on Python, Automation, Local AI & Media Tooling.**
 
-I build software around automation, local AI and practical tooling — with an emphasis on explicit architecture, observable behavior and real-world validation.
+I build software for automation, backend systems, media processing and AI-assisted workflows — combining academic foundations with hands-on engineering projects.
 
-Currently studying **Systems Analysis and Development** and building projects that combine backend development, automation, AI and media processing.
+My main development project is **MOONR Studio**, a local-first media system focused on perception, post-production automation and AI-assisted editing workflows.
 
 ## Featured project
 
