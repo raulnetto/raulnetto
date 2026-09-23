@@ -8,7 +8,7 @@ Currently studying **Systems Analysis and Development** and building projects th
 
 ## Featured project
 
-### DocumentFlow Automation
+### [DocumentFlow Automation] (https://github.com/raulnetto/documentflow-automation)
 
 A document-processing pipeline built with **Python and FastAPI**.
 
@@ -22,7 +22,7 @@ It automatically chooses between digital text extraction and OCR, persists proce
 
 ### MOONR Studio
 
-A private software project exploring local-first media tooling, automated perception and AI-assisted post-production workflows.
+Currently building a private local-first media system focused on automated perception and AI-assisted post-production workflows.
 
 A public technical showcase will be published separately as the project matures.
 
